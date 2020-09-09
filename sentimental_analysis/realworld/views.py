@@ -52,7 +52,7 @@ def input(request):
 def productanalysis(request):
     if request.method=='POST':
         blogname = request.POST.get("blogname", "")
-        text_file = open("Output.txt", "w")
+        text_file = open("ProductAnalysis.txt", "w")
         text_file.write(blogname)
     else:
         note = "Please Enter the product blog name for analysis"
