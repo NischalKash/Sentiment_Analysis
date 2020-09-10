@@ -1,0 +1,135 @@
+ Prashanth Mallyampatti 
+ +1 (919) 702-2074   |   mallyampatti@gmail.com   |   linkedin.com/in/mallyampatti   |   github.com/Prashanth-Mallyampatti
+
+Motivated and resourceful Computer Science Graduate passionate about Systems, Networking, and Software Development, 
+
+seeking to leverage my technical skills at your company.
+
+EDUCATION 
+Masters in Computer Science 
+North Carolina State University 
+Raleigh, North Carolina 
+Concentration: Distributed Systems, 
+Operating Systems, Linux Networking, 
+Cloud Computing 
+GPA: 3.8/4.0
+
+Course Period: Aug 2018 - May 2020 
+
+Bachelors in Computer Science 
+Visvesvaraya Technological University 
+Karnataka, India 
+Advanced  Computer Architecture, OS, 
+Computer Organization, Software 
+Engineering, Data Structures, Algorithms, 
+DBMS, Networks, Compiler Design, 
+Software Architecture 
+Graduated: July 2018
+
+TECHNICAL SKILLS 
+• Languages: C, Java, Bash, C++, 
+YAML, Python, ASM, PowerShell 
+(basic). 
+
+• Web: Apache, XML, PHP, HTML.
+
+• Database: Cassandra, Redis, Oracle.
+
+• OS: Debian, SLES, RHEL, XINU
+
+• Tools/Technologies: Docker, Git, 
+SaltStack, Ansible, Inspec, NS3, 
+Socket Programming, Kernel 
+Programming, Hadoop, MATLAB, 
+OpenStack, Wireshark, NCTUns, 
+Arduino.
+
+EXTRACURRICULAR 
+• Teaching Assistant at North Carolina 
+State University            (May - July, 2019) 
+For the course Design and Analysis of 
+Algorithms under Prof. Steﬀen Heber. 
+Grading, building Java and Python 
+test environments for coding.
+
+
+• Member of Computer Society of India                                             
+
+(Aug 2015- Aug 2018) 
+
+EXPERIENCE 
+• DevOps Intern at SYNTAX SYSTEMS                                                          (June - Dec 2019) 
+‣ Built  Docker  images,  developed  containerized  Unit  Test  environment  (fully  automated)  to 
+run in-production SaltStack formulas on/for various linux distributions.
+
+‣ Wrote SaltStack formulas for installing & conﬁguring software agents/clients to connect to 
+their respective in-production servers, and for modifying existing system conﬁgurations.
+
+
+PROJECTS 
+• Migration as a Service (MaaS) 
+
+‣ Built and developed an integrated VM, Network and Container Migration Service for cloud 
+platforms using pure Linux modules only.   Migration of tenant’s infrastructure to and from 
+various clouds with Self-Healing, Accounting and Logging features.
+
+‣ Ansible playbooks for automated infrastructure deployments, and  MaaS orchestration.
+
+
+• Anomaly Prediction in Large Scale Distributed Systems 
+
+‣ My role: Built a native Cassandra multi node cluster, with centralized monitoring server and 
+deployed on Amazon EC2,. Yahoo Cloud Serving Benchmark as workload generator.
+
+‣ My role: Docker containers for workload generation, metric collection & prediction engine.
+
+‣ For Anomaly predictions used: Adaptive Growing Hierarchical SOM and LSTMs.
+
+
+• Custom Unix Kernel 
+
+‣ Built  and  added:  Exponential  Distribution,  &  Linux  Like  (kernel  2.2)  process  scheduling 
+policies  to  address  starvation  problems;  System  Calls  for  additional  functionalities; 
+Demand paging & Disk Emulation for better virtualization; Readers/Writer Locks to solve 
+priority inversion using Priority Inheritance protocol to existing XINU OS kernel.
+
+
+• Analysis of Configuration Management Softwares 
+
+‣ Targeting  system  architects  &  software  developers,  compared  Ansible  and  Puppet  on 
+service performance, usability, stability, robustness, etc. 
+
+‣ Tools: Docker, Molecule, SonarQube, Pylint, RSpec. My role: Containerized testing using 
+Docker, Code smell & bug severity, vulnerabilities using SonarQube. 
+
+
+• Peer-to-Peer with Centralized Index System for Downloading RFCs 
+
+‣ Built a P2P-CI system to download RFCs spread across peers with P2P (simple HTTP), 
+and P2S (request-respond) Application layer protocols. 
+
+‣ TCP communications between Peer-Peer, and Peer-Server.
+
+
+• File Sharing between Remote Systems 
+
+‣ Built a Remote Client & Server File Sharing system over UDP using Selective-Repeat and 
+Go-Back-N ARQ protocols with checksums and packet drop probability factored in.
+
+
+ACCOMPLISHMENTS 
+• Paper Publication in 30th Computer Society of India’s(CSI) journal 2017 
+
+‣ “E-forms in Banking System”- technical paper proposed to digitalize deposit section of 
+Indian banks. Was 4th runner up of 32 papers selected (state level).
+
+
+• IIT Bombay certiﬁed C/C++ programmer: 
+funded by National Mission on Education 
+through ICT, Govt., of India, 2017.
+
+• Cracked National Programming Aptitude 
+Test(NPAT), 2017 Conducted by NPTEL in 
+collaboration with ACM India and Google.
+
+
